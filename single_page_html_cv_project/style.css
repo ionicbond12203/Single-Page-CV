@@ -1,0 +1,31 @@
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+
+}
+
+.content {
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(6, 12, 12);
+}
+
+h2 {
+    color: rgb(117, 196, 97);
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(51, 116, 236);
+}
+
+p,
+li {
+    font-weight: bold;
+}
